@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Jun 27 21:01:35 2020
+# Process ID: 3655657
+# Current directory: /home/rob/hpc-xc7k420t/project_1
+# Command line: vivado ./project_1.xpr
+# Log file: /home/rob/hpc-xc7k420t/project_1/vivado.log
+# Journal file: /home/rob/hpc-xc7k420t/project_1/vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project ./project_1.xpr
+update_compile_order -fileset sources_1
+reset_run synth_1
